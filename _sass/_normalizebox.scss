@@ -1,0 +1,11 @@
+// suggested for _menu: https://w3bits.com/box-sizing-reset/
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}

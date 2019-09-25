@@ -1,0 +1,35 @@
+<!doctype html>
+<head>
+  <title>{% if depth > 0 %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} | {{ page.title }}{% endif %}</title>
+  <!-- Meta -->
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <!-- Links -->
+  <!-- khofstadter: is this needed? -->
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:"index.html","" }}">
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/main.css">
+</head>
+
+
+<body>
+  <header>
+    <div>
+      {% include header.html %}
+    </div>
+  </header>
+
+  <section>
+    <div>
+      {{ content }}
+    </div>
+  </section>
+
+  <footer>
+    <div>
+      {% include footer.html %}
+    </div>
+  </footer>
+  <!-- JS -->
+</body>
+</html>

@@ -1,0 +1,32 @@
+# Site settings
+title: frame
+email:
+subtitle: "A boilerplate for K Hofstadter's websites."
+keywords:
+- Jekyll
+
+# URL
+url: "https://krisztian-hofstadter-tedor.github.io/frame"
+baseurl: ""
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+# Build settings
+exclude: ['README.md', 'Makefile']
+
+# Collections
+permalink: /:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      class: post
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: post
+      class: post

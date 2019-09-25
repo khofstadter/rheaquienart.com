@@ -1,5 +1,7 @@
-# rheaquienart.com
-this is a temp website;
-old site to migrate is : http://rq-lightart.com/
+todo:
+- when were the cea courses?
+- change visual art to visual-art;
 
-thanks, k
+note:
+- CEA at the end of the menu;
+- not adding Linking East and West - Linking Generations’ and parents work (inc. Bronze Film)
