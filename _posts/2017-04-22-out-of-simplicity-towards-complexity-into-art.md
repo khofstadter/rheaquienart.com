@@ -2,7 +2,7 @@
 title: Out of Simplicity - Toward Complexity - Into Art
 subtitle: Subtitle (max 140 characters)
 categories: artwork
-tags: visual-art, drawings
+tags: visual-art, drawing
 ---
 
 Out of Simplicity: 108 pastel drawings 21cm by 21cm

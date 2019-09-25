@@ -2,7 +2,7 @@
 title: Living Matter in Rhythm
 subtitle: Subtitle (max 140 characters)
 categories: artwork
-tags: visual-art, paintings
+tags: visual-art, painting
 ---
 
 23 up to 110cm by 110cm acrylic canvases

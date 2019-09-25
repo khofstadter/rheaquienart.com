@@ -2,7 +2,7 @@
 title: Birth Dream
 subtitle: Subtitle (max 140 characters)
 categories: artwork
-tags: visual-art, paintings
+tags: visual-art, painting
 ---
 
 41 up to 1m by 1m acrylic paintings on canvas
