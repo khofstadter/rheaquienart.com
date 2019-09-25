@@ -1,3 +1,6 @@
+before work:
+- swap default layout page; 
+
 big tasks:
 - new info from Rhea;
 - organise artwork/events into posts; 
